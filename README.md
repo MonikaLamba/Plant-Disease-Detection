@@ -14,6 +14,8 @@ Initially the data is collected in the image form. Load the images name with cla
 
 Once the image filters step is completed, using the file to apply the classfication algorithms in WEKA along with Deep Learning4j. 
 
+Weka https://www.cs.waikato.ac.nz/ml/weka/
+
 
 
 
